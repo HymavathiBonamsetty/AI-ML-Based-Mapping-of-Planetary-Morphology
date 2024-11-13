@@ -15,7 +15,7 @@ This repository contains the implementation and resources for the **"Artificial 
 - [License](#license)
 
 ## Project Overview
-Planetary morphology studies the surface features and geological structures of planets, which provides insights into planetary evolution and geological history. This project applies machine learning algorithms to analyze satellite and telescope imagery, aiming to automate the detection and mapping of planetary features such as craters, ridges, valleys, and other geological formations.
+Planetary morphology studies the surface features and geological structures of planets, which provides insights into planetary evolution and geological history. This project applies machine learning algorithms to analyze satellite and telescope imagery, aiming to automate the detection and mapping of planetary features.
 
 ## Objectives
 - To automate planetary feature recognition and classification through AI and ML techniques.
@@ -25,7 +25,7 @@ Planetary morphology studies the surface features and geological structures of p
 ## Dataset
 The dataset comprises various high-resolution planetary images, which include:
 - Satellite imagery and telescope-captured images.
-- Images categorized by feature types (e.g., craters, valleys, mountains) to aid supervised training.
+- Images categorized by feature to aid supervised training.
 
 **Note**: The dataset may be subject to specific licensing agreements, and is not included in this repository.
 
